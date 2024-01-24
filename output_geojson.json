@@ -1,0 +1,1481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.52799,
+              30.454944
+            ],
+            [
+              71.52799,
+              30.364839
+            ],
+            [
+              71.631852,
+              30.364839
+            ],
+            [
+              71.631852,
+              30.454944
+            ],
+            [
+              71.52799,
+              30.454944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_0",
+        "COORDINATE": "30.4098914726332 71.47587519046",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.31961,
+              30.364648
+            ],
+            [
+              71.31961,
+              30.274542
+            ],
+            [
+              71.423376,
+              30.274542
+            ],
+            [
+              71.423376,
+              30.364648
+            ],
+            [
+              71.31961,
+              30.364648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_1",
+        "COORDINATE": "30.4098914726332 71.5799211267035",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.42356,
+              30.364648
+            ],
+            [
+              71.42356,
+              30.274542
+            ],
+            [
+              71.527326,
+              30.274542
+            ],
+            [
+              71.527326,
+              30.364648
+            ],
+            [
+              71.42356,
+              30.364648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_2",
+        "COORDINATE": "30.3195953052466 71.3714930683678",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.527509,
+              30.364648
+            ],
+            [
+              71.527509,
+              30.274542
+            ],
+            [
+              71.631276,
+              30.274542
+            ],
+            [
+              71.631276,
+              30.364648
+            ],
+            [
+              71.527509,
+              30.364648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_3",
+        "COORDINATE": "30.3195953052466 71.4754428097075",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.631459,
+              30.364648
+            ],
+            [
+              71.631459,
+              30.274542
+            ],
+            [
+              71.735225,
+              30.274542
+            ],
+            [
+              71.735225,
+              30.364648
+            ],
+            [
+              71.631459,
+              30.364648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_4",
+        "COORDINATE": "30.3195953052466 71.5793925510471",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.735409,
+              30.364648
+            ],
+            [
+              71.735409,
+              30.274542
+            ],
+            [
+              71.839175,
+              30.274542
+            ],
+            [
+              71.839175,
+              30.364648
+            ],
+            [
+              71.735409,
+              30.364648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_5",
+        "COORDINATE": "30.3195953052466 71.6833422923868",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.319323,
+              30.274352
+            ],
+            [
+              71.319323,
+              30.184246
+            ],
+            [
+              71.422994,
+              30.184246
+            ],
+            [
+              71.422994,
+              30.274352
+            ],
+            [
+              71.319323,
+              30.274352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_6",
+        "COORDINATE": "30.3195953052466 71.7872920337264",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.423177,
+              30.274352
+            ],
+            [
+              71.423177,
+              30.184246
+            ],
+            [
+              71.526848,
+              30.184246
+            ],
+            [
+              71.526848,
+              30.274352
+            ],
+            [
+              71.423177,
+              30.274352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_7",
+        "COORDINATE": "30.2292991388268 71.3711584045596",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.527031,
+              30.274352
+            ],
+            [
+              71.527031,
+              30.184246
+            ],
+            [
+              71.630702,
+              30.184246
+            ],
+            [
+              71.630702,
+              30.274352
+            ],
+            [
+              71.527031,
+              30.274352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_8",
+        "COORDINATE": "30.2292991388268 71.475012386401",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.630885,
+              30.274352
+            ],
+            [
+              71.630885,
+              30.184246
+            ],
+            [
+              71.734556,
+              30.184246
+            ],
+            [
+              71.734556,
+              30.274352
+            ],
+            [
+              71.630885,
+              30.274352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_9",
+        "COORDINATE": "30.2292991388268 71.5788663682423",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.734739,
+              30.274352
+            ],
+            [
+              71.734739,
+              30.184246
+            ],
+            [
+              71.83841,
+              30.184246
+            ],
+            [
+              71.83841,
+              30.274352
+            ],
+            [
+              71.734739,
+              30.274352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_10",
+        "COORDINATE": "30.2292991388268 71.6827203500836",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.215278,
+              30.184057
+            ],
+            [
+              71.215278,
+              30.093949
+            ],
+            [
+              71.318855,
+              30.093949
+            ],
+            [
+              71.318855,
+              30.184057
+            ],
+            [
+              71.215278,
+              30.184057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_11",
+        "COORDINATE": "30.2292991388268 71.7865743319249",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.319037,
+              30.184057
+            ],
+            [
+              71.319037,
+              30.093949
+            ],
+            [
+              71.422614,
+              30.093949
+            ],
+            [
+              71.422614,
+              30.184057
+            ],
+            [
+              71.319037,
+              30.184057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_12",
+        "COORDINATE": "30.1390029733807 71.2670666008583",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.422795,
+              30.184057
+            ],
+            [
+              71.422795,
+              30.093949
+            ],
+            [
+              71.526372,
+              30.093949
+            ],
+            [
+              71.526372,
+              30.184057
+            ],
+            [
+              71.422795,
+              30.184057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_13",
+        "COORDINATE": "30.1390029733807 71.3708252569296",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.526554,
+              30.184057
+            ],
+            [
+              71.526554,
+              30.093949
+            ],
+            [
+              71.630131,
+              30.093949
+            ],
+            [
+              71.630131,
+              30.184057
+            ],
+            [
+              71.526554,
+              30.184057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_14",
+        "COORDINATE": "30.1390029733807 71.474583913001",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.630313,
+              30.184057
+            ],
+            [
+              71.630313,
+              30.093949
+            ],
+            [
+              71.73389,
+              30.093949
+            ],
+            [
+              71.73389,
+              30.184057
+            ],
+            [
+              71.630313,
+              30.184057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_15",
+        "COORDINATE": "30.1390029733807 71.5783425690723",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.734071,
+              30.184057
+            ],
+            [
+              71.734071,
+              30.093949
+            ],
+            [
+              71.837648,
+              30.093949
+            ],
+            [
+              71.837648,
+              30.184057
+            ],
+            [
+              71.734071,
+              30.184057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_16",
+        "COORDINATE": "30.1390029733807 71.6821012251437",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.318752,
+              30.093761
+            ],
+            [
+              71.318752,
+              30.003652
+            ],
+            [
+              71.422235,
+              30.003652
+            ],
+            [
+              71.422235,
+              30.093761
+            ],
+            [
+              71.318752,
+              30.093761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_17",
+        "COORDINATE": "30.0487068089154 71.2668298572907",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.422416,
+              30.093761
+            ],
+            [
+              71.422416,
+              30.003652
+            ],
+            [
+              71.525899,
+              30.003652
+            ],
+            [
+              71.525899,
+              30.093761
+            ],
+            [
+              71.422416,
+              30.093761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_18",
+        "COORDINATE": "30.0487068089154 71.3704936196543",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.52608,
+              30.093761
+            ],
+            [
+              71.52608,
+              30.003652
+            ],
+            [
+              71.629563,
+              30.003652
+            ],
+            [
+              71.629563,
+              30.093761
+            ],
+            [
+              71.52608,
+              30.093761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_19",
+        "COORDINATE": "30.0487068089154 71.474157382018",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.629743,
+              30.093761
+            ],
+            [
+              71.629743,
+              30.003652
+            ],
+            [
+              71.733227,
+              30.003652
+            ],
+            [
+              71.733227,
+              30.093761
+            ],
+            [
+              71.629743,
+              30.093761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_20",
+        "COORDINATE": "30.0487068089154 71.5778211443816",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.11133,
+              30.003466
+            ],
+            [
+              71.11133,
+              29.913356
+            ],
+            [
+              71.21472,
+              29.913356
+            ],
+            [
+              71.21472,
+              30.003466
+            ],
+            [
+              71.11133,
+              30.003466
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_21",
+        "COORDINATE": "30.0487068089154 71.6814849067452",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.214899,
+              30.003466
+            ],
+            [
+              71.214899,
+              29.913356
+            ],
+            [
+              71.318289,
+              29.913356
+            ],
+            [
+              71.318289,
+              30.003466
+            ],
+            [
+              71.214899,
+              30.003466
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_22",
+        "COORDINATE": "29.9584106454376 71.1630248888228",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.318469,
+              30.003466
+            ],
+            [
+              71.318469,
+              29.913356
+            ],
+            [
+              71.421858,
+              29.913356
+            ],
+            [
+              71.421858,
+              30.003466
+            ],
+            [
+              71.318469,
+              30.003466
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_23",
+        "COORDINATE": "29.9584106454376 71.2665941878859",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.422038,
+              30.003466
+            ],
+            [
+              71.422038,
+              29.913356
+            ],
+            [
+              71.525428,
+              29.913356
+            ],
+            [
+              71.525428,
+              30.003466
+            ],
+            [
+              71.422038,
+              30.003466
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_24",
+        "COORDINATE": "29.9584106454376 71.370163486949",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.525607,
+              30.003466
+            ],
+            [
+              71.525607,
+              29.913356
+            ],
+            [
+              71.628997,
+              29.913356
+            ],
+            [
+              71.628997,
+              30.003466
+            ],
+            [
+              71.525607,
+              30.003466
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_25",
+        "COORDINATE": "29.9584106454376 71.473732786012",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.111236,
+              29.91317
+            ],
+            [
+              71.111236,
+              29.823059
+            ],
+            [
+              71.214533,
+              29.823059
+            ],
+            [
+              71.214533,
+              29.91317
+            ],
+            [
+              71.111236,
+              29.91317
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_26",
+        "COORDINATE": "29.9584106454376 71.5773020850751",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.214711,
+              29.91317
+            ],
+            [
+              71.214711,
+              29.823059
+            ],
+            [
+              71.318008,
+              29.823059
+            ],
+            [
+              71.318008,
+              29.91317
+            ],
+            [
+              71.214711,
+              29.91317
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_27",
+        "COORDINATE": "29.8681144829543 71.1628843240157",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.318187,
+              29.91317
+            ],
+            [
+              71.318187,
+              29.823059
+            ],
+            [
+              71.421483,
+              29.823059
+            ],
+            [
+              71.421483,
+              29.91317
+            ],
+            [
+              71.318187,
+              29.91317
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_28",
+        "COORDINATE": "29.8681144829543 71.2663595885412",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.421662,
+              29.91317
+            ],
+            [
+              71.421662,
+              29.823059
+            ],
+            [
+              71.524958,
+              29.823059
+            ],
+            [
+              71.524958,
+              29.91317
+            ],
+            [
+              71.421662,
+              29.91317
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_29",
+        "COORDINATE": "29.8681144829543 71.3698348530668",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.525137,
+              29.91317
+            ],
+            [
+              71.525137,
+              29.823059
+            ],
+            [
+              71.628434,
+              29.823059
+            ],
+            [
+              71.628434,
+              29.91317
+            ],
+            [
+              71.525137,
+              29.91317
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_30",
+        "COORDINATE": "29.8681144829543 71.4733101175923",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.111142,
+              29.822874
+            ],
+            [
+              71.111142,
+              29.732762
+            ],
+            [
+              71.214346,
+              29.732762
+            ],
+            [
+              71.214346,
+              29.822874
+            ],
+            [
+              71.111142,
+              29.822874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_31",
+        "COORDINATE": "29.8681144829543 71.5767853821179",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.110956,
+              29.642283
+            ],
+            [
+              71.110956,
+              29.552169
+            ],
+            [
+              71.213976,
+              29.552169
+            ],
+            [
+              71.213976,
+              29.642283
+            ],
+            [
+              71.110956,
+              29.642283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_32",
+        "COORDINATE": "29.5972260015396 71.0592707358241",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.214152,
+              29.642283
+            ],
+            [
+              71.214152,
+              29.552169
+            ],
+            [
+              71.317172,
+              29.552169
+            ],
+            [
+              71.317172,
+              29.642283
+            ],
+            [
+              71.214152,
+              29.642283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_33",
+        "COORDINATE": "29.5972260015396 71.1624664530364",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.317348,
+              29.642283
+            ],
+            [
+              71.317348,
+              29.552169
+            ],
+            [
+              71.420368,
+              29.552169
+            ],
+            [
+              71.420368,
+              29.642283
+            ],
+            [
+              71.317348,
+              29.642283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_34",
+        "COORDINATE": "29.5972260015396 71.2656621702486",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.007761,
+              29.551988
+            ],
+            [
+              71.007761,
+              29.461872
+            ],
+            [
+              71.110689,
+              29.461872
+            ],
+            [
+              71.110689,
+              29.551988
+            ],
+            [
+              71.007761,
+              29.551988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "PROVINCE": "PUNJAB",
+        "DISTRICT": "TEST_COORD_35",
+        "COORDINATE": "29.5972260015396 71.3688578874608",
+        "Shape_Leng": 4.04397871066,
+        "ADMIN_UNIT": "DISTRICT",
+        "Shape_Le_1": 4.0439787105,
+        "Shape_Le_2": 4.0439787105,
+        "Shape_Area": 0.3406389045
+      }
+    }
+  ]
+}
